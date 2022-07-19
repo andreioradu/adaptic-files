@@ -1,6 +1,7 @@
 var inputField = document.getElementById("autoInput");
 var searchList = document.getElementById("search-terms");
 var searchTermsWrapper = document.getElementById("searchTermsWrapper");
+
 var terms = [
   "Alpha-mannosidosis",
   "Aspartylglucosaminuria",
