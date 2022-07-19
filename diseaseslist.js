@@ -1,4 +1,3 @@
-<script>
 var inputField = document.getElementById("autoInput");
 var searchList = document.getElementById("search-terms");
 var searchTermsWrapper = document.getElementById("searchTermsWrapper");
@@ -5756,4 +5755,3 @@ function checkFocus(e) {
 }
 
 document.addEventListener("mouseup", checkFocus, false);
-</script>
